@@ -1,3 +1,4 @@
+# Project Description
 - The project is a web based platform that is suppose to help beginners in cybersecurity to get started in the field.
 - This project is a project that me and my business partner are working on for o high school entrepreneurship club.
 
