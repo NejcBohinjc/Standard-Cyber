@@ -1,1 +1,1 @@
-# cybersecurity-platform
+# Standard Cyber
